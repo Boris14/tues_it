@@ -1,0 +1,19 @@
+body {background-image: url(sth.jpg);
+overflow-y: scroll;}
+
+img {position:relative;
+   top: -95px;
+   right: 50px;
+   height: 200px;
+   width:250px;}
+
+.row {float:right;}
+
+h2 {left:100px;
+  color:gray;}
+
+p {font-size:24px;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: groove;
+  border-left-style: none;}
